@@ -4,4 +4,6 @@ line 3;
 
 rajout 1
 
+rajout 2;
+
 rajout xyz;
