@@ -3,3 +3,5 @@ File2
 line3
 
 Rajout 1;
+
+Rajout 2;
