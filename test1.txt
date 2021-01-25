@@ -7,3 +7,5 @@ rajout 1
 rajout 2;
 
 rajout xyz;
+
+rajout; 3
