@@ -6,3 +6,4 @@ testPullxxx;
 
 add and must keep;
 add and must keep from local2;
+add and must keep from local3;
