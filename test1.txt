@@ -2,3 +2,4 @@ File 1
 
 line 3;
 git pullyyy;
+git pull conflict;
