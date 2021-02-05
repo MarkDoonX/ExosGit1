@@ -1,15 +1,1 @@
-File2
-
-line3
-
-Rajout 1;
-
-Rajout 2;
-
-Rajout 4;
-Rajout 5;
-rajout 6;
-
-test pull staged local;
-
-add and must keep;
+Line 1;
