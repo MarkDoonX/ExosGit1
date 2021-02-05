@@ -11,3 +11,5 @@ Rajout 5;
 rajout 6;
 
 test pull staged local;
+
+add and must keep;
