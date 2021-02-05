@@ -4,9 +4,5 @@ line 3;
 git pullyyy;
 testPullxxx;
 
-
-other test1;
-
-modified from local;
-modif;
 add and must keep;
+add and must keep from local2;
