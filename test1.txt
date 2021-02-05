@@ -3,7 +3,7 @@ File 1
 line 3;
 git pullyyy;
 testPullxxx;
-
+add and must keep from repo1;
 add and must keep;
 add and must keep from local2;
 add and must keep from local3;
