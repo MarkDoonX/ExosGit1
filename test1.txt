@@ -9,3 +9,4 @@ add and must keep from local2;
 add and must keep from local3;
 Modif 1;
 Modif 2;
+Modif test Stash Local;
