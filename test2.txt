@@ -9,3 +9,5 @@ Rajout 2;
 Rajout 4;
 Rajout 5;
 rajout 6;
+
+test pull staged local;
